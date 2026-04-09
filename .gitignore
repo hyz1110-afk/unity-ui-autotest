@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 测试生成的文件
+screenshots/
+reports/
+*.log
+*.html
+
+templates/button.png
+
+# ADB 临时文件
+*.jpg
+*.jpeg
+
+# 其他
+*.apk
+.DS_Store
